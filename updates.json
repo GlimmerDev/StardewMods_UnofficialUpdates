@@ -1,0 +1,12 @@
+{
+    "Format": "4.0.0",
+    "Mods": {
+        "LevelUpNotifications": {
+            "Name": "LevelUpNotifications",
+            "ModPageUrl": "https://github.com/GlimmerDev/StardewMods_UnofficialUpdates/blob/main/LevelUpNotifications",
+            "Versions": [
+                { "Version": "0.0.4-unofficial.1-glimmerDev" }
+            ]
+        }
+    }
+}

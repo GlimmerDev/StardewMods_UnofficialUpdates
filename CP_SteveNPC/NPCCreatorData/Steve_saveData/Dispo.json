@@ -1,0 +1,22 @@
+{
+  "npcstrName": "Steve",
+  "npcrelText": "Gus",
+  "npclovInt": "null",
+  "npcCanDate": true,
+  "lstAge": "teen",
+  "lstPerMan": "polite",
+  "lstPerOpt": "neutral",
+  "lstPerSoc": "outgoing",
+  "lstGender": "male",
+  "lstMapSpawn": "JoshHouse",
+  "lstBdaySeas": "fall",
+  "lstOrigin": "Town",
+  "varMapX": 14,
+  "varMapY": 5,
+  "varBday": 1,
+  "varAltMapX": 0,
+  "varAltMapY": 0,
+  "altCanDate": false,
+  "pregRoleFlag": false,
+  "enabledAltDispo": false
+}
