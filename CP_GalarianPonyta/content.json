@@ -1,0 +1,27 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+	// GalarianPonyta
+	{
+	  "Action": "Load",
+	  "Target": "Animals/Horse",
+	  "FromFile": "assets/GalarianPonyta.png"
+	},
+
+	// remove reigns (male)
+    {
+	  "Action": "EditImage",
+	  "Target": "Characters/Farmer/farmer_base",
+	  "FromFile": "assets/farmer_saddle_arms.png",
+	  "ToArea": { "X": 160, "Y": 544, "Width": 32, "Height": 32 }
+	},
+	
+	// remove reigns (female)
+    {
+	  "Action": "EditImage",
+	  "Target": "Characters/Farmer/farmer_girl_base",
+	  "FromFile": "assets/farmer_girl_saddle_arms.png",
+	  "ToArea": { "X": 160, "Y": 544, "Width": 32, "Height": 32 }
+	}
+  ]
+}

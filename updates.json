@@ -1,12 +1,19 @@
 {
     "Format": "4.0.0",
     "Mods": {
-        "LevelUpNotifications": {
+        "CP_GalarianPonyta": {
+            "Name": "CP_GalarianPonyta",
+            "ModPageUrl": "https://github.com/GlimmerDev/StardewMods_UnofficialUpdates/blob/main/CP_GalarianPonyta",
+            "Versions": [
+                { "Version": "1.0.1-unofficial.1-glimmerDev" }
+            ]
+        },
+		"LevelUpNotifications": {
             "Name": "LevelUpNotifications",
             "ModPageUrl": "https://github.com/GlimmerDev/StardewMods_UnofficialUpdates/blob/main/LevelUpNotifications",
             "Versions": [
                 { "Version": "0.0.4-unofficial.1-glimmerDev" }
             ]
-        }
+        },
     }
 }
