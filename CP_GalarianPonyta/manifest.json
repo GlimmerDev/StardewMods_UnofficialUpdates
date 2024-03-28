@@ -1,11 +1,11 @@
 {
   "Name": "Galarian Ponyta Horse Replacement",
   "Author": "smillingapple",
-  "Version": "1.0.1-unofficial.1-glimmerDev",
+  "Version": "1.0.2-unofficial.1-glimmerDev",
   "Description": "Replaces horse with a galarian Ponyta.",
-  "UniqueID": "smillingapple.shinyponyta",
-  "MinimumApiVersion": "2.10.0",
-  "UpdateKeys": [ "Nexus:4367", "UpdateManifest:https://raw.githubusercontent.com/GlimmerDev/StardewMods_UnofficialUpdates/main/updates.json@CP_GalarianPonyta" ],
+  "UniqueID": "smillingapple.galarianponyta",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Nexus:4618", "UpdateManifest:https://raw.githubusercontent.com/GlimmerDev/StardewMods_UnofficialUpdates/main/updates.json@CP_GalarianPonyta" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher",
     "MinimumVersion": "1.6.0"
