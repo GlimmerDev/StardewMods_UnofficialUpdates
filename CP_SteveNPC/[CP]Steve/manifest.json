@@ -1,13 +1,11 @@
 {
   "Name": "Steve The New NPC mod",
   "Author": "WatchfulTigerlily",
-  "Description": "Steve is a new, marriable NPC. With heart events.-=Created By MissCoriel's NPC Creator=-",
-  "Version": "1.3.37",
+  "Description": "Steve's from out of town. Like, way out of town.-=Created By MissCoriel's NPC Creator=-",
+  "Version": "1.3.37-unofficial.0-glimmerDev",
   "UniqueID": "tig.stevenpc",
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   },
-  "UpdateKeys": [
-    "Nexus: "
-  ]
+  "UpdateKeys": [ "UpdateManifest:https://raw.githubusercontent.com/GlimmerDev/StardewMods_UnofficialUpdates/main/updates.json@CP_SteveNPC" ]
 }

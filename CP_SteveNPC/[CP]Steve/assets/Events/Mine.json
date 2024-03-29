@@ -4,7 +4,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Mine",
       "Entries": {
-        "985822/f Steve 2000/t 1600 2400": "Of Dwarves/19 9/farmer 18 12 0 Steve 19 9 2/showFrame Steve 35/skippable/pause 500/emote farmer 28/move farmer 0 -3 1/pause 500/speak Steve \"Farmer...is that you?$2\"/pause 200/speak Steve \"Can - can you help me up?$2\"/pause 800/emote farmer 20/speak Steve \"Oh,  and by the way, I think I might be about to pass out. But I don't wanna inconvenience you.$1\"/emote farmer 16/pause 500/speak Steve \"You're right. Let's get outta here. Can you help me up? I'm sorta stuck on the floor here.$2\"/pause 800/speak Steve \"I'm so sorry you found me like this. I was tryna -$2#$b#Ever since I moved here I've been haunted. I thought if I killed a bunch of monsters...$2\"/pause 500/emote Steve 24/pause 500/emote farmer 16/pause 500/globalFade/viewport -1000 -1000/end"
+        "985822/f Steve 2000/t 1600 2400": "Of Dwarves/19 9/farmer 18 12 0 Steve 19 9 2/showFrame Steve 35/skippable/pause 500/emote farmer 28/move farmer 0 -3 1/pause 500/speak Steve \"Huh...?$2#$b#Farmer...is that you?$2\"/pause 200/speak Steve \"Can - can you help me up?$2\"/pause 800/emote farmer 20/speak Steve \"Oh... hey, I think I might be about to pass out. But uh, I don't wanna inconvenience you...$1\"/emote farmer 16/pause 500/speak Steve \"You're right. Let's get outta here. Can you help me? I'm sorta... stuck on the floor here.$2\"/pause 800/speak Steve \"I'm so sorry you found me like this. I was... tryna...$2\"/pause 500/speak Steve \"Ever since I moved here, I've felt... haunted. I thought if I killed a bunch of monsters...$2\"/pause 500/emote Steve 24/pause 500/emote farmer 16/pause 500/globalFade/viewport -1000 -1000/end"
      }
     }
   ]
