@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/spring24",
+      "Entries": {
+        "Steve": "Sorry, I would like to dance but I have two left feet.$1#$b#Oh! Have you tried the jelly? It's all anyone can talk about! I helped Emily make it, we used the wild berries I collected.",
+        "Steve_spouse": "I don't mind if you dance with someone else, honey. I would dance with you but I can't dance.$2#$b#*wistful sigh* Spring leaves us yet again.$2"
+      }
+    }
+  ]
+}

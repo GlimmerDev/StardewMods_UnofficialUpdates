@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter25",
+      "Entries": {
+        "Steve": "Wow! The food tastes so good. Like, so so good. This festival is one of my favourites, I mean, look at all the snow!$4",
+        "Steve_spouse": "Hon, you didn't need to get me a present. You being mine is the best present I could have.$4"
+      }
+    }
+  ]
+}

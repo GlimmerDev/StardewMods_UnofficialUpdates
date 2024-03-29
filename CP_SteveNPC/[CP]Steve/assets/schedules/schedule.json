@@ -1,0 +1,8 @@
+{
+  "spring": "900 JoshHouse 14 5 2/1000 Town 51 60 3/1230 Beach 55 8 2 steve_lift/1500 Beach 11 20 3/1630 AnimalShop 20 16 1/1930 Town 51 60 3/2130 JoshHouse 14 5 2",
+  "summer": "900 JoshHouse 14 5 2/1000 Town 51 60 3/1230 Beach 55 8 2 steve_lift \"Strings\\schedules\\Steve:summer.000\"/1430 AnimalShop 20 17 1/1630 JoshHouse 14 5 2",
+  "fall": "900 JoshHouse 14 5 2/1000 Town 37 89 2/1230 Beach 57 8 1/1430 Saloon 9 20 0/1600 JoshHouse 14 5 2",
+  "winter": "800 JoshHouse 14 5 2/900 JoshHouse 8 19 2/1030 JoshHouse 17 5 0/1430 Saloon 39 19 2/1500 BathHouse_MensLocker 3 5 2 \"Strings\\schedules\\Steve:winter.000\"/1800 JoshHouse 17 5 0/2350 JoshHouse 14 5 2",
+  "rain": "800 JoshHouse 14 5 2/900 Saloon 4 6 3/1430 Saloon 10 5 0/1750 Town 51 49 3/1600 JoshHouse 14 5 2",
+  "marriage_Mon": "800 Beach 41 36 2/1530 Saloon 26 18 2\"Strings\\schedules\\Steve:marriage.000\"/1600 JoshHouse 14 5 2"
+}

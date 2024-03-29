@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/winter8",
+      "Entries": {
+        "Steve": "It's so cold! Oh but what do you think of my snowman?$1",
+        "Steve_spouse": "I'll be watching and cheering you on hon! Go get 'em!"
+      }
+    }
+  ]
+}

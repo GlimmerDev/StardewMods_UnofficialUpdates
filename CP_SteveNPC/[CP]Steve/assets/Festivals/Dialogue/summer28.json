@@ -1,0 +1,19 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/summer28",
+      "Entries": {
+        "Steve": "This is my favourite event of the year. Those beautiful blue beams of light, giving the dark water a luminous glow.",
+        "Steve_spouse": "Hi there honey! I brought my camera so we can take pictures of the jellies!$1#$b#But the beauty of those jellies is nothing compared to you$4."
+      }
+    },
+	{
+	  "Action": "EditData",
+	  "Target": "Data/Festivals/summer28",
+	  "Entries": {
+		"Steve_spouse": "Those glowing jellies look quite cool, not gonna lie."
+	  }
+	}
+  ]
+}

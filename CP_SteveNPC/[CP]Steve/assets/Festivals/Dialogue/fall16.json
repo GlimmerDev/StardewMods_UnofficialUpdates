@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall16",
+      "Entries": {
+        "Steve": "I tried the Strength Game out but I was a bit intimidated by that dude.$1#$e#But then I beat him so, all's good.",
+        "Steve_spouse": "Hi hon, how are you doing today?$4"
+      }
+    }
+  ]
+}

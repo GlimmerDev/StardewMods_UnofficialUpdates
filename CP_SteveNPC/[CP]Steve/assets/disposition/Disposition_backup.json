@@ -1,0 +1,11 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "data/NPCDispositions",
+      "Entries": {
+        "Steve": "teen/polite/outgoing/neutral/male/datable/null/Town/fall 1/Gus/JoshHouse 14 5/Steve"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "Entries": {
+        "Steve": "Halloween! Bet you I can scare ya. These decorations aren't scary at all, though. And trust me, I've seen scary.$1",
+        "Steve_spouse": "I'll protect you if you get scared, but there isn't much to be scared of here..."
+      }
+    },
+	{
+      "Action": "EditData",
+      "Target": "Data/Festivals/fall27",
+      "Entries": {
+        "Steve_spouse": "Bet I could take on those skeletons."
+      }
+    }
+  ]
+}
