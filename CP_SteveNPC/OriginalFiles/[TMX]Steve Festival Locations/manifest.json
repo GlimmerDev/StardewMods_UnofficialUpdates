@@ -1,0 +1,10 @@
+{
+  "Name": "Steve Festival Locations",
+  "Author": "WatchfulTigerlily",
+  "Version": "1.0.0",
+  "Description": "Steve's Festival Locations",
+  "UniqueID": "Watchful.SteveFestival",
+  "ContentPackFor": {
+    "UniqueID": "Platonymous.TMXLoader",
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "NPC Festival Locations",
+  "version": "1.0.0", 
+  "author": "Papaya",
+  "festivalSpots": 
+	[  
+		{
+		"name": "Steve",
+	    "map": "Town-EggFestival", 
+		"position": [26, 68],
+		"direction": 3
+		},
+		{
+		"name": "Steve",
+	    "map": "Forest-FlowerFestival", 
+		"position": [14, 34],
+		"direction": 2
+		},
+		{
+		"name": "Steve",
+	    "map": "Beach-Luau", 
+		"position": [33, 16],
+		"direction": 2
+		},
+		{
+		"name": "Steve",
+	    "map": "Beach-Jellies", 
+		"position": [34, 36],
+		"direction": 2
+		},
+		{
+		"name": "Steve",
+	    "map": "Town-Fair", 
+		"position": [26, 74],
+		"direction": 1
+		},
+		{
+		"name": "Steve",
+	    "map": "Town-Halloween", 
+		"position": [21, 45],
+		"direction": 2
+		},
+		{
+		"name": "Steve",
+	    "map": "Forest-IceFestival", 
+		"position": [58, 45],
+		"direction": 1
+		},
+		{
+		"name": "Steve",
+	    "map": "Town-Christmas", 
+		"position": [26, 64],
+		"direction": 1
+		},
+
+
+
+
+	]
+}
+
+
